@@ -50,3 +50,6 @@ remote:
 To https://github.com/rsskga/sophia.git
  * [new branch]      example -> example
 ```
+
+
+Now on branch vandy 
